@@ -1,4 +1,2 @@
 # ansible_tuto
-we are just testing dude
-fuckoff
-jdkfjkqjslfkjldkgjqlkjgfjqlkfqjgl
+we are just testing pleaaaaaaaaaaaaaaaaaasee
